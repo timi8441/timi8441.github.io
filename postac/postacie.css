@@ -48,6 +48,12 @@ text-align: center;
 
 }
 
+h3{
+
+font-size:25px;
+
+}
+
 .image-info {
 
 border-radius:300px;
@@ -92,6 +98,8 @@ b{
 
 
 color:#bf9b30;
+
+font-size:20px;
 
 }
 
